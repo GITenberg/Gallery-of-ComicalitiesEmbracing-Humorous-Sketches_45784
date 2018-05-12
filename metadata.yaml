@@ -1,0 +1,43 @@
+_repo: Gallery-of-ComicalitiesEmbracing-Humorous-Sketches_45784
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45784-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Cruikshank, Robert
+    aliases:
+    - Cruikshank, R. (Robert)
+    - Cruikshank, Isaac Robert
+    - Cruikshank, I. R. (Isaac Robert)
+    - Cruikshank, I. Robert (Isaac Robert)
+    birthdate: 1789
+    deathdate: 1856
+    gutenberg_agent_id: '9022'
+    url: http://www.gutenberg.org/2009/agents/9022
+  - agent_name: Cruikshank, George
+    alias: Cruickshank, George
+    birthdate: 1792
+    deathdate: 1878
+    gutenberg_agent_id: '9068'
+    url: http://www.gutenberg.org/2009/agents/9068
+    wikipedia: http://en.wikipedia.org/wiki/George_Cruikshank
+  - agent_name: Seymour, Robert
+    birthdate: 1798
+    deathdate: 1836
+    gutenberg_agent_id: '1828'
+    url: http://www.gutenberg.org/2009/agents/1828
+description: ''
+gutenberg_issued: '2014-05-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45784'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'NC'
+- !lcsh 'English wit and humor, Pictorial'
+title: Gallery of Comicalities; Embracing Humorous Sketches
+url: http://www.gutenberg.org/ebooks/45784
